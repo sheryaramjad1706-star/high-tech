@@ -10,7 +10,7 @@ export default function HeroSection() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
           // Apni background image ka path yahan replace karein
-          backgroundImage: "url('/your-background-image.jpg')", 
+          backgroundImage: "url('/WhatsApp-Image-2025-10-13-at-14.21.49_84c5bd0a-scaled.jpg')", 
         }}
       />
 
