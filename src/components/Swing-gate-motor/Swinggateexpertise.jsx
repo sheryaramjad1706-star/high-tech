@@ -35,7 +35,7 @@ export default function SwingGateExpertiseSection() {
 
               {/* FIRST BUTTON */}
               <Link
-                href="/services/gate-automation-systems"
+                href="/"
                 className="group relative flex min-h-[74px] w-full items-center justify-center rounded-full bg-[#fac609] px-11 py-3 text-center text-[17px] font-medium leading-[1.35] text-white transition-all duration-300 hover:bg-[#171717] hover:shadow-md"
               >
                 <span>
@@ -53,7 +53,7 @@ export default function SwingGateExpertiseSection() {
 
               {/* SECOND BUTTON */}
               <Link
-                href="/services/smart-security-integration"
+                href="/"
                 className="group relative flex min-h-[74px] w-full items-center justify-center rounded-full bg-[#fac609] px-11 py-3 text-center text-[17px] font-medium leading-[1.35] text-white transition-all duration-300 hover:bg-[#171717] hover:shadow-md"
               >
                 <span>

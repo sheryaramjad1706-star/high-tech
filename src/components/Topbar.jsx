@@ -78,7 +78,7 @@ export default function TopBar() {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/hightechengineeringsolution?mibextid=wwXIfr&rdid=NjkzpU0Pm3U6ulMp&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17Ugo8F4jX%2F%3Fmibextid%3DwwXIfr#"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
@@ -88,7 +88,7 @@ export default function TopBar() {
             </a>
 
             <a
-              href="https://www.tiktok.com/"
+              href="https://www.instagram.com/hes_electric_fencing?igsh=azZ0dTdnZGRtYW5w&utm_source=qr"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="TikTok"
@@ -98,7 +98,7 @@ export default function TopBar() {
             </a>
 
             <a
-              href="https://www.instagram.com/"
+              href="https://www.tiktok.com/@umair5163?_t=ZS-90XPTsM9YIL&_r=1"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"

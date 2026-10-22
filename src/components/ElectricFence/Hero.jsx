@@ -30,7 +30,7 @@ export default function HeroSection() {
         
         {/* Main Heading */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-sans font-bold tracking-tight text-white mb-4 drop-shadow-md">
-          Electric Fence
+         Electric Fence Installation & Security Solutions
         </h1>
 
         {/* Subtitle Text */}

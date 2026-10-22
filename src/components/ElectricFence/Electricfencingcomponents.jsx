@@ -5,7 +5,7 @@ const components = [
   {
     id: 1,
     title: "Druid 13LCD Energizer",
-    image: "/druid-13lcd-energizer.jpg",
+    image: "/WhatsApp-Image-2025-10-13-at-14.21.33_15d669b4-scaled-e1760351573220.jpg",
     alt: "Nemtek Druid 13LCD Electric Fence Energizer",
     description: (
       <>
@@ -26,7 +26,7 @@ const components = [
   {
     id: 2,
     title: "Nemtek Connect WiFi Gateway",
-    image: "/nemtek-connect-wifi-gateway.jpg",
+    image: "/product-pic-3.jpg",
     alt: "Nemtek Connect WiFi Gateway circuit board",
     description: (
       <>
@@ -46,7 +46,7 @@ const components = [
   {
     id: 3,
     title: "Druid 28LCD Energizer",
-    image: "/druid-28lcd-energizer.jpg",
+    image: "/iamge 1.jpg",
     alt: "Nemtek Druid 28LCD Dual Zone Electric Fence Energizer",
     description: (
       <>

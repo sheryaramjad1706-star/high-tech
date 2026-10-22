@@ -33,7 +33,7 @@ export default function SwingGateMotorHeroSection() {
       {/* Hero content */}
       <div className="relative z-10 mx-auto flex w-full max-w-[850px] flex-col items-center text-center">
         <h1 className="mb-[21px] text-[38px] font-semibold leading-tight tracking-[0.3px] sm:text-[48px] lg:text-[60px] lg:leading-[1.15]">
-          Swing Gate Motors
+          Automatic Swing Gate Motors
         </h1>
 
         <p className="mx-auto max-w-[660px] text-[16px] font-medium leading-[1.5] text-[#e1e1e1] sm:text-[18px] lg:text-[20px]">

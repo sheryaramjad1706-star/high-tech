@@ -103,9 +103,7 @@ export default function Hero() {
               Fence Solutions
             </span>
 
-            <span className="block">
-              In Town For You
-            </span>
+           
           </h1>
 
           {/* DESCRIPTION */}
@@ -240,10 +238,10 @@ export default function Hero() {
 
             <div className="flex shrink-0 items-center pl-1">
               {[
-                { src: "/clients/client-1.jpg", alt: "Client 1" },
-                { src: "/clients/client-2.jpg", alt: "Client 2" },
-                { src: "/clients/client-3.jpg", alt: "Client 3" },
-                { src: "/clients/client-4.jpg", alt: "Client 4" },
+                { src: "/unnamed.png", alt: "Client 1" },
+                { src: "/unnamed-5.png", alt: "Client 2" },
+                { src: "/unnamed-7.png", alt: "Client 3" },
+                { src: "/unnamed-6.png", alt: "Client 4" },
               ].map((client, index) => (
                 <img
                   key={client.alt}
@@ -312,7 +310,7 @@ export default function Hero() {
             onClick={(event) => event.stopPropagation()}
           >
             <video
-              src={heroVideo}
+              src={"/WhatsApp-Video-2025-10-13-at-13.54.00_eba5df87.mp4"}
               controls
               autoPlay
               playsInline

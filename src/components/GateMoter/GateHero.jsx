@@ -18,7 +18,7 @@ export default function GateHeros() {
       {/* Content */}
       <div className="mx-auto flex w-full max-w-[700px] flex-col items-center text-center">
         <h1 className="text-[36px] font-bold leading-tight tracking-[0.2px] text-white sm:text-[42px] md:text-[48px] lg:text-[50px]">
-          Gate Automation
+        Automatic Gate Motor Solutions
         </h1>
 
         <p className="mt-4 max-w-[560px] text-[14px] font-normal leading-[23px] text-white/90 sm:text-[15px] sm:leading-[25px] md:mt-5 md:text-[16px] md:leading-[27px]">
@@ -60,7 +60,7 @@ export default function GateHeros() {
             aria-current="page"
             className="text-[12px] font-medium text-white sm:text-[13px]"
           >
-            PROJECTS
+            GATE MOTOR
           </span>
         </nav>
       </div>

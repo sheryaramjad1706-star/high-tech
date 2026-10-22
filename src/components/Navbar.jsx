@@ -80,8 +80,8 @@ export default function Navbar() {
           {/* Gate Motor Dropdown */}
           <div className="group relative">
             <div className="flex items-center gap-[5px]">
-              <a href="/gate-moter" className={linkClass}>
-                Gate Moter
+              <a href="/gate-motor" className={linkClass}>
+                Gate Motor
               </a>
 
               <button

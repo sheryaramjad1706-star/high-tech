@@ -94,41 +94,52 @@ function Avatar({ color, name }) {
   );
 }
 
+
 function RatingAvatars() {
-  const colors = ["#F4B900", "#F4B900", "#EAB500", "#A99129"];
+  const customerImages = [
+    {
+      image: "/unnamed-6.png",
+      name: "Customer 1",
+    },
+    {
+      image: "/unnamed.png",
+      name: "Customer 2",
+    },
+    {
+      image: "/unnamed-7.png",
+      name: "Customer 3",
+    },
+    {
+      image: "/unnamed-5.png",
+      name: "Customer 4",
+    },
+  ];
 
   return (
     <div className="flex items-center justify-center pl-2">
-      {colors.map((color, index) => (
+      {customerImages.map((customer, index) => (
         <div
           key={index}
-          className="-ml-[2px] flex h-[57px] w-[57px] items-center justify-center rounded-full border bg-[#F5F8EF] first:ml-0"
-          style={{ borderColor: color, zIndex: 4 - index }}
+          className={`relative flex h-[80px] w-[80px] shrink-0 items-center justify-center overflow-hidden rounded-full border-[2px] border-[#F4B900] bg-[#F5F8EF] ${
+            index !== 0 ? "-ml-[20px]" : ""
+          }`}
+          style={{
+            zIndex: customerImages.length - index,
+          }}
         >
-          <svg
-            viewBox="0 0 40 40"
-            className="h-9 w-9"
-            fill="none"
-            aria-hidden="true"
-          >
-            <circle
-              cx="20"
-              cy="13"
-              r="6"
-              stroke="#A7A99A"
-              strokeWidth="1.2"
-            />
-            <path
-              d="M8 34c0-8 5-12 12-12s12 4 12 12"
-              stroke="#A7A99A"
-              strokeWidth="1.2"
-            />
-          </svg>
+          <img
+            src={customer.image}
+            alt={customer.name}
+            title={customer.name}
+            className="h-full w-full object-cover object-center"
+            loading="lazy"
+          />
         </div>
       ))}
     </div>
   );
 }
+
 
 export default function Testimonials() {
   const containerRef = useRef(null);

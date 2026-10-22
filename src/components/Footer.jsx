@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="flex items-center gap-3.5">
               {/* Facebook */}
               <a
-                href="#"
+                href="https://www.facebook.com/hightechengineeringsolution?mibextid=wwXIfr&rdid=NjkzpU0Pm3U6ulMp&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17Ugo8F4jX%2F%3Fmibextid%3DwwXIfr#"
                 aria-label="Facebook"
                 className="w-10 h-10 rounded-full bg-[#facc15] text-[#121212] flex items-center justify-center hover:bg-yellow-400 hover:text-black hover:scale-110 transition-all duration-300 shadow-md"
               >
@@ -33,7 +33,7 @@ export default function Footer() {
 
               {/* Instagram */}
               <a
-                href="#"
+                href="https://www.instagram.com/hes_electric_fencing?igsh=azZ0dTdnZGRtYW5w&utm_source=qr"
                 aria-label="Instagram"
                 className="w-10 h-10 rounded-full bg-[#facc15] text-[#121212] flex items-center justify-center hover:bg-yellow-400 hover:text-black hover:scale-110 transition-all duration-300 shadow-md"
               >
@@ -44,7 +44,7 @@ export default function Footer() {
 
               {/* TikTok */}
               <a
-                href="#"
+                href="https://www.tiktok.com/@umair5163?_t=ZS-90XPTsM9YIL&_r=1"
                 aria-label="TikTok"
                 className="w-10 h-10 rounded-full bg-[#facc15] text-[#121212] flex items-center justify-center hover:bg-yellow-400 hover:text-black hover:scale-110 transition-all duration-300 shadow-md"
               >

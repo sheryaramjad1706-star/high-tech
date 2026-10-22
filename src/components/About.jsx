@@ -38,7 +38,7 @@ export default function About() {
             </p>
 
             <a
-              href="/about"
+              href="/"
               className="group mt-7 inline-flex h-[49px] items-center gap-3 rounded-full border border-[#ffc20e] bg-[#ffc20e] px-7 text-[15px] font-semibold text-white transition-all duration-300 hover:bg-transparent hover:text-[#c99b00] hover:shadow-[0_5px_18px_rgba(255,194,14,0.18)]"
             >
               Read More

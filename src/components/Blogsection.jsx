@@ -8,13 +8,13 @@ const blogPosts = [
     title: "Secure Your Home: Why Professional Gate...",
     description:
       "In an age of smart technology and rising security concerns, automatic gate...",
-    href: "/blog",
+    href: "/",
   },
   {
     title: "Why Electric Fences Are Your Best...",
     description:
       "In today’s fast-paced world, security has become more than just a need...",
-    href: "/blog",
+    href: "/",
   },
 ];
 
@@ -37,7 +37,7 @@ export default function BlogSection() {
           </div>
 
           <a
-            href="/blog"
+            href="/"
             className="inline-flex h-10 shrink-0 items-center justify-center gap-2 rounded-full bg-[#F8C20B] px-5 text-[13px] font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#E8AE00] hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#F5B900] focus-visible:ring-offset-2"
           >
             Visit Blog

@@ -7,7 +7,7 @@ const products = [
     title: "DRUID 13 LCD Energizer",
     image: "/IMG-20251009-WA0022.jpg",
     location: "Islamabad",
-    href: "/services/druid-13-lcd-energizer",
+    href: "",
     description: (
       <>
         Our <strong>Druid 13 Energizers</strong> use Adaptive Power Technology
@@ -21,7 +21,7 @@ const products = [
     title: "Square Tube Shield Brackets",
     image: "/IMG-20251009-WA0021.jpg",
     location: "Islamabad",
-    href: "/services/square-tube-shield-brackets",
+    href: "",
     description: (
       <>
         We use premium-grade shield brackets with durable insulators for secure
@@ -35,7 +35,7 @@ const products = [
     title: "Compression Spring System",
     image: "/3.png",
     location: "Islamabad",
-    href: "/services/compression-spring-system",
+    href: "",
     description: (
       <>
         Our stainless-steel compression springs ensure consistent wire tension
@@ -49,7 +49,7 @@ const products = [
     title: "Stainless Steel Wire 316 Grade",
     image: "/WhatsApp-Image-2025-10-13-at-14.21.49_84c5bd0a-scaled.jpg",
     location: "Islamabad",
-    href: "/services/compression-spring-system",
+    href: "",
     description: (
       <>
         The 316 Grade Stainless Steel Wire offers superior corrosion resistance
@@ -63,7 +63,7 @@ const products = [
     title: "7Ah Backup Battery",
     image: "/IMG-20251009-WA0026.jpg",
     location: "Islamabad",
-    href: "/services/compression-spring-system",
+    href: "",
     description: (
       <>
         7Ah Backup Battery Every installation includes a 12V 7Ah lead-acid,
@@ -77,7 +77,7 @@ const products = [
     title: "24/7 Support",
     image: "/WhatsApp-Image-2025-10-13-at-14.21.40_e57e253f-scaled.jpg",
     location: "Islamabad",
-    href: "/services/compression-spring-system",
+    href: "",
     description: (
       <>
         We stand by our promise — support when you need it most. Our dedicated

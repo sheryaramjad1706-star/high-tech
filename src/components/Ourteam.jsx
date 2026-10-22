@@ -7,7 +7,7 @@ const teamMembers = [
   {
     name: "Muhammad Umair Tahir",
     role: "Chairman",
-    image: "/images/team/umair.jpg",
+    image: "/2-1024x1024.png",
     facebook: "#",
     twitter: "#",
     youtube: "#",
@@ -15,7 +15,7 @@ const teamMembers = [
   {
     name: "Sheraz Ashraf",
     role: "General Manager",
-    image: "/images/team/sheraz.jpg",
+    image: "/1-1-1024x1024.png",
     facebook: "#",
     twitter: "#",
     youtube: "#",
@@ -23,7 +23,7 @@ const teamMembers = [
   {
     name: "Osama",
     role: "Sales Manager",
-    image: "/images/team/osama.jpg",
+    image: "/3-1-1024x1024.png",
     facebook: "#",
     twitter: "#",
     youtube: "#",
@@ -31,7 +31,7 @@ const teamMembers = [
   {
     name: "Mr Ali",
     role: "Supervisor",
-    image: "/images/team/ali.jpg",
+    image: "/6-1024x1024.png",
     facebook: "#",
     twitter: "#",
     youtube: "#",
